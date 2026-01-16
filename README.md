@@ -13,6 +13,16 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,dotnet" />
 
+### Programming Languages
+
+| Name        | Logo                                      |
+|-------------|-------------------------------------------|
+| Python      | ![Python](https://skillicons.dev/icons?i=python)  |
+| Java        | ![Java](https://skillicons.dev/icons?i=java)      |
+| JavaScript  | ![JavaScript](https://skillicons.dev/icons?i=js)  |
+| .NET        | ![.NET](https://skillicons.dev/icons?i=dotnet)    |
+
+
 ---
 
 ### Backend Frameworks
