@@ -11,85 +11,64 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-| Name        | Logo |
-|-------------|------|
-| Python      | ![Python](https://skillicons.dev/icons?i=python) |
-| Java        | ![Java](https://skillicons.dev/icons?i=java) |
-| JavaScript  | ![JavaScript](https://skillicons.dev/icons?i=js) |
-| .NET        | ![.NET](https://skillicons.dev/icons?i=dotnet) |
+<img src="https://skillicons.dev/icons?i=python,java,js,dotnet" />
+
+---
 
 ### Backend Frameworks
-| Name       | Logo |
-|------------|------|
-| FastAPI    | ![FastAPI](https://skillicons.dev/icons?i=fastapi) |
-| Spring     | ![Spring](https://skillicons.dev/icons?i=spring) |
-| Flask      | ![Flask](https://skillicons.dev/icons?i=flask) |
-| Django     | ![Django](https://skillicons.dev/icons?i=django) |
-| Express    | ![Express](https://skillicons.dev/icons?i=express) |
-| Node.js    | ![Node.js](https://skillicons.dev/icons?i=nodejs) |
+<img src="https://skillicons.dev/icons?i=fastapi,spring,flask,django,express,nodejs" />
+
+---
 
 ### Frontend Technologies
-| Name          | Logo |
-|---------------|------|
-| React         | ![React](https://skillicons.dev/icons?i=react) |
-| Redux         | ![Redux](https://skillicons.dev/icons?i=redux) |
-| HTML5         | ![HTML](https://skillicons.dev/icons?i=html) |
-| CSS3          | ![CSS](https://skillicons.dev/icons?i=css) |
-| Tailwind CSS  | ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
-| Material UI   | ![Material UI](https://skillicons.dev/icons?i=materialui) |
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,materialui" />
+
+---
 
 ### Databases
-| Name     | Logo |
-|----------|------|
-| MySQL    | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| MongoDB  | ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
-| Redis    | ![Redis](https://skillicons.dev/icons?i=redis) |
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 
-### Version Control & Repository Management
-| Name        | Logo |
-|-------------|------|
-| Git         | ![Git](https://skillicons.dev/icons?i=git) |
-| GitHub      | ![GitHub](https://skillicons.dev/icons?i=github) |
-| GitLab      | ![GitLab](https://skillicons.dev/icons?i=gitlab) |
-| Bitbucket   | ![Bitbucket](https://skillicons.dev/icons?i=bitbucket) |
+---
+
+### ✅ Version Control & Repository Management
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+
+---
 
 ### Cloud & DevOps
-| Name             | Logo |
-|------------------|------|
-| AWS              | ![AWS](https://skillicons.dev/icons?i=aws) |
-| Docker           | ![Docker](https://skillicons.dev/icons?i=docker) |
-| Kubernetes       | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) |
-| Jenkins          | ![Jenkins](https://skillicons.dev/icons?i=jenkins) |
-| GitHub Actions   | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) |
-| Linux            | ![Linux](https://skillicons.dev/icons?i=linux) |
-| NGINX            | ![NGINX](https://skillicons.dev/icons?i=nginx) |
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,githubactions,linux,nginx" />
+
+---
 
 ### Messaging & Streaming
-| Name       | Logo |
-|------------|------|
-| Kafka      | ![Kafka](https://skillicons.dev/icons?i=kafka) |
-| RabbitMQ   | ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq) |
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+
+---
 
 ### Testing & Automation
-| Name     | Logo |
-|----------|------|
-| Postman  | ![Postman](https://skillicons.dev/icons?i=postman) |
+<img src="https://skillicons.dev/icons?i=postman" />
+
+---
 
 ### Operating Systems
-| Name     | Logo |
-|----------|------|
-| Windows  | ![Windows](https://skillicons.dev/icons?i=windows) |
-| Linux    | ![Linux](https://skillicons.dev/icons?i=linux) |
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+
+---
 
 ### AI & Emerging Tech
-| Name                   | Logo |
-|------------------------|------|
-| OpenAI (Gen AI)        | ![OpenAI](https://cdn.simpleicons.org/openai) |
-| LangChain              | ![LangChain](https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo-dark.svg) |
-| MCP Tooling            | ![MCP](https://api.iconify.design/tabler/settings-automation.svg) |
-| Pinecone (Vector DB)   | ![Pinecone](https://cdn.simpleicons.org/pinecone) |
-| spaCy (NLP)            | ![spaCy](https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg) |
-| Semantic Chunking      | ![Semantic Chunking](https://api.iconify.design/tabler/text-recognition.svg) |
+
+<p>
+  <img height="40" src="https://cdn.simpleicons.org/openai" title="Generative AI" />
+  <img height="40" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo-dark.svg" />
+  <img height="40" src="https://api.iconify.design/tabler/settings-automation.svg" title="MCP" />
+  <img height="40" src="https://cdn.simpleicons.org/pinecone" title="Vector DBs" />
+  <img height="40" src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" title="NLP" />
+  <img height="40" src="https://api.iconify.design/tabler/text-recognition.svg" title="Semantic Chunking" />
+</p>
+
+
+---
+
 
 ---
 
@@ -137,6 +116,7 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 
 ## 📈 GitHub Metrics & Badges
 
+<!-- GitHub DevCard -->
 <a href="https://github.com/kamalkavin96">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalkavin96&theme=radical" />
 </a>
