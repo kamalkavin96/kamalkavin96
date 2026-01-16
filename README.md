@@ -116,19 +116,38 @@ I'm a Software Engineer with 4+ years of experience in Java and Python developme
 
 ## 📈 GitHub Metrics & Badges
 
-<!-- GitHub DevCard -->
+<!-- Primary Stats -->
 <a href="https://github.com/kamalkavin96">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamalkavin96&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalkavin96&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
-<br/>
 <a href="https://github.com/kamalkavin96">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamalkavin96&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamalkavin96&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkavin96&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </a>
-<br/>
+
+<!-- GitHub Profile Summary Cards (more reliable subset) -->
 <a href="https://github.com/kamalkavin96">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamalkavin96&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamalkavin96&theme=radical&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamalkavin96&theme=radical" alt="Stats" />
+</a>
+<a href="https://github.com/kamalkavin96">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamalkavin96&theme=radical&utcOffset=5.5" alt="Productive Time (IST)" />
+</a>
+<a href="https://github.com/kamalkavin96">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamalkavin96&theme=radical" alt="Repos by Language" />
+</a>
+
+<!-- Additional Metrics -->
+<a href="https://github.com/kamalkavin96">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalkavin96&theme=radical" alt="Streak Stats" />
+</a>
+
+<!-- Trophies (widely used & stable) -->
+<a href="https://github.com/kamalkavin96">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamalkavin96&theme=radical&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</a>
+
+<!-- Activity Graph -->
+<a href="https://github.com/kamalkavin96">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalkavin96&theme=radical" alt="Activity Graph" />
 </a>
 
 ---
